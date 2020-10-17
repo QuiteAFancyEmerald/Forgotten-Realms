@@ -7,12 +7,9 @@ Forgotten Realms is a Metroidvania game based off of the popular game Hollow Kni
 ## World Map
 <img src="https://www.dundoc.com/data/Projects/5872/images/medium/ForgottenRealmsMAPANDLEVELS.png"></img>
 ## Level Design
+This is the world for Forgotten Realms. The world has four levels. The hub is the beginning level of the game where you spawn in. The Valley is also considered part of level one where you get used to the main game mechanics. Level 2 is The Tower where the game difficulty increases slightly. Level 3 is the cave, which is a very difficult level. Level 4 is the final level which is the Sky Island where the final boss lives.
 <img src="https://www.dundoc.com/data/Projects/5872/images/medium/CrystalCaveInDepth1.png"></img>
 ## Bosses/Levels
-
-### Level Design
-This is the world for Forgotten Realms. The world has four levels. The hub is the beginning level of the game where you spawn in. The Valley is also considered part of level one where you get used to the main game mechanics. Level 2 is The Tower where the game difficulty increases slightly. Level 3 is the cave, which is a very difficult level. Level 4 is the final level which is the Sky Island where the final boss lives.
-
 ### Tower
 Once a place of glory; taken over by evil long ago. Shadows of lost spirits remain and haunt this tower. 
 
