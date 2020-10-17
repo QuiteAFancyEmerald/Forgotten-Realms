@@ -28,10 +28,10 @@ How are you to defeat it?
 
 ## Controls
 We are currently mapping a controller for this project.
-A and D to move right or left
-Left-Click to shoot
-Space to jump
-Arrow Keys for Dash
+- A and D to move right or left
+- Left-Click to shoot
+- Space to jump
+- Arrow Keys for Dash
 
 ## Credits
 - https://github.com/Lachee/discord-rpc-csharp
