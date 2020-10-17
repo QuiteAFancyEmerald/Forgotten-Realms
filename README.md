@@ -36,7 +36,7 @@ Arrow Keys for Dash
 ## Credits
 - https://github.com/Lachee/discord-rpc-csharp
 
-Developed by QuiteAFancyEmerald, TramatizedFish, Hunter D., Spencer
+Developed by QuiteAFancyEmerald, TraumatizedFish, Hunter D., Spencer
 
 And lastly credits to Hollow Knight for making such an amazing game to be inspired from.
 
