@@ -1,9 +1,10 @@
 # Forgotten Realms
-Forgotten Realms is a Metroidvania game based off of the popular game Hollow Knight. Explore and conquer the world to save the villagers from the Sky Dragon. From the Valleys to scary creepy caves, Forgotten Realms is a game of adventure. Long ago the land was conquered by the evil Sky Dragon who terrorizes the poor folk who lived in the Village. Of the survivors, a descendant emerges One whos ancestor left behind the Forgotten Realms to try to find a happy life. Now, this hero returns to claim back the land. From the Crystal Caves glimmering in shine to the spooky catacombs of The Tower. So far all who have attempted have perished. What about you?
+Forgotten Realms is a Metroidvania game based off of the popular game Hollow Knight. 
+Explore and conquer the world to save the villagers from the Sky Dragon. From valleys to scary creepy caves, Forgotten Realms is a game of adventure. 
 ## Menu
-<img src="https://quiteafancyemerald.ml/blog/https://live.staticflickr.com/65535/48959379977_556b6bb659_b.jpg"></img>
+<img src="https://quiteafancyemerald.ml/blog/https://live.staticflickr.com/65535/48959379977_556b6bb659_b.jpg" alt="Menu Image"></img>
 ## Flowchat Developmental Stage
-<img src="https://quiteafancyemerald.ml/blog/https://live.staticflickr.com/65535/48959194086_b26e2cc3a9_b.jpg"></img>
+<img src="https://quiteafancyemerald.ml/blog/https://live.staticflickr.com/65535/48959194086_b26e2cc3a9_b.jpg" alt="Flowchart"></img>
 ## World Map
 <img src="https://www.dundoc.com/data/Projects/5872/images/medium/ForgottenRealmsMAPANDLEVELS.png"></img>
 ## Level Design
@@ -25,6 +26,9 @@ This monstrosity brought plagued the poor folk of The Forgotten Realms. One day 
 - The Sky Dragon holds the power of the gods.
 
 How are you to defeat it? 
+
+## Story
+Long ago the land was conquered by the evil Sky Dragon who terrorizes the poor folk who lived in the Village. Of the survivors, a descendant emerges One whos ancestor left behind the Forgotten Realms to try to find a happy life. Now, this hero returns to claim back the land. From the Crystal Caves glimmering in shine to the spooky catacombs of The Tower. So far all who have attempted have perished. What about you?
 
 ## Controls
 We are currently mapping a controller for this project.
